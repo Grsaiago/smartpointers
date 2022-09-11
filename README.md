@@ -1,0 +1,2 @@
+# smartpointers
+Smart pointers study
